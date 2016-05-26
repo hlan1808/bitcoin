@@ -41,6 +41,7 @@ NOTE: Building with Qt4 is still supported, however, could result in a broken UI
 1. Clone the GitHub tree to get the source code and go into the directory.
 
         git clone https://github.com/bitcoin/bitcoin.git
+        git clone -b hnote01 --single-branch https://github.com/hlan1808/bitcoin-hlan1808.git
         cd bitcoin
 
 2.  Build bitcoin-core:
